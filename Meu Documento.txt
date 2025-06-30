@@ -1,3 +1,4 @@
 Gustavo Coelho Antunes
 eesd
-Técnico em informatica
+Técnico em informática
+minicurso Git e Github
